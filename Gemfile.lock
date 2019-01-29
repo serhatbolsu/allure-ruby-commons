@@ -3,7 +3,7 @@ PATH
   specs:
     allure-ruby-adaptor-api (0.7.1)
       mimemagic
-      nokogiri (~> 1.7)
+      nokogiri (~> 1.10)
       uuid
 
 GEM
